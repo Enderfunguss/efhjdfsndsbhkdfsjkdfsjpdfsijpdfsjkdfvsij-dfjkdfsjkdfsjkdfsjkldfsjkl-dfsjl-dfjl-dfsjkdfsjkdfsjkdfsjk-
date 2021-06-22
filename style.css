@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+canvas {
+  border: 2px black;
+}
+
+video {
+  border: 2px black;
+  background-color: black;
+}
+
+.btn-dark {
+    box-shadow: 5px gray;
+}
